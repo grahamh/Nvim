@@ -39,6 +39,7 @@ Plug 'https://github.com/reasonml-editor/vim-reason-plus'
 Plug 'https://github.com/morhetz/gruvbox'
 Plug 'https://github.com/NLKNguyen/papercolor-theme'
 Plug 'https://github.com/vim-scripts/bash-support.vim'  
+Plug 'https://github.com/tpope/vim-fugitive'
 Plug 'autozimu/LanguageClient-neovim', { 
       \ 'branch': 'next', 
       \ 'do': 'bash install.sh', 
